@@ -1,0 +1,6 @@
+  banner:
+    location: banner.txt
+  application:
+    fileName: src/main/resources/questions.csv
+    locale: ru-RU
+    passRate: 3
